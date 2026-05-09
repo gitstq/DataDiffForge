@@ -1,0 +1,1 @@
+# DataDiffForge - zero external dependencies
